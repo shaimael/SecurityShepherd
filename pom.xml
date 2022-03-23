@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<skipTests>false</skipTests>
 		<skipITs>${skipTests}</skipITs>
-		<skipUTs>${skipTests}</skipUTs>
+		<skipUTs>${skipTests}</skipUTs>    
 	</properties>
 
 	<dependencies>
